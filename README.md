@@ -11,8 +11,8 @@ A curated list of public Telegram channels and groups (chats) dedicated to DevOp
 
 ## Contents
 
-- [Channels](#channels) to get new information
-- [Groups](#groups) for discussions
+- [Channels](#channels) to read news, announcements, etc.
+- [Groups](#groups) a.k.a. chats for various discussions
 
 ### Channels
 
@@ -41,12 +41,21 @@ A curated list of public Telegram channels and groups (chats) dedicated to DevOp
 
 - [@r_devops](https://t.me/r_devops) — r/devops posts from Reddit.
 - [@kubelet](https://t.me/kubelet) — Kubernetes blog feed.
+- [@rss_kubernetes](https://t.me/rss_kubernetes) :fire: — a feed from various Kubernetes-related projects' GitHub repos and blogs.
 
 ### Groups
 
+#### General
+
 - [@Learnk8s](https://t.me/learnk8s) :fire: — Kubernetes-related discussions curated by the Learnk8s team.
-- [@dockeren](https://t.me/dockeren) :fire: — Docker-related discussions.
+- [@dockeren](https://t.me/dockeren) :fire: — a chat dedicated to Docker.
+- [@azuredevopspro](https://t.me/azuredevopspro) :fire::fire: — discussing DevOps-related issues in Azure and more.
 - [@devops_lemons](https://t.me/devops_lemons) :skull: — a community of software engineers interested in DevOps and SRE.
+
+#### Tools
+
+- [@terraform_cloud](https://t.me/terraform_Cloud) :fire::fire: — HashiCorp Terraform.
+- [@werf_io](https://t.me/werf_io) — werf, a CI/CD CLI tool and CNCF project.
 
 ## Add more resources
 
@@ -54,7 +63,9 @@ If you want to see other Telegram resources in this list, please open new PRs ad
 - Be sure your channel/group fits the requirements. It should:
   - use the English language only,
   - relate to the topics (DevOps, SRE, and/or Platform Engineering),
-  - not be overfilled with sponsored/biased/spam messages.
+  - be public (you don't need to join it to see the messages),
+  - have recent messages,
+  - not be overfilled with sponsored/biased/spam messages (including endless free offers, vague job offers, and so on).
 - Find a proper category for your addition and make a brief description similar to the existing entries.
 - Make a separate PR per each addition.
 - All decisions on accepting new entries are at the repo maintainers' discretion.
