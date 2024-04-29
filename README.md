@@ -28,6 +28,7 @@ A curated list of public Telegram channels and groups (chats) dedicated to DevOp
 - [@CatOps](https://t.me/catops) :fire::fire: — news and notes about DevOps, SRE, and more.
 - [@prodevopsguy](https://t.me/prodevopsguy) :fire::fire: — daily DevOps-related tips, job interview questions, etc.
 - [@kubernative](https://t.me/kubernative) — Kubernetes and cloud native-related news, articles & tools for DevOps and SRE.
+- [@DevOps101](https://t.me/DevOps101) — DevOps, SRE news, tools and articles
 - [@softwareengineeringcontent](https://t.me/softwareengineeringcontent) — Content about: eXtreme Programming, Clean Code, Domain-Driven Design, Software Architecture, etc.
 
 #### Security
