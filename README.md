@@ -4,10 +4,15 @@ A curated list of public Telegram channels and groups (chats) dedicated to DevOp
 
 ## Legend
 
+Common:
 - Not active: :skull:
 - 1000+ members: :fire:
 - 5000+ members: :fire::fire:
 - 10000+ members: :fire::fire::fire:
+
+Channel-specific. This channel's content is mainly comprised of:
+- :memo: — original posts, including own thoughts and/or descriptions of the linked content;
+- :link: — links with no (or close to no) comments.
 
 ## Contents
 
@@ -19,22 +24,24 @@ A curated list of public Telegram channels and groups (chats) dedicated to DevOp
 #### General content
 
 - Curated by the Learnk8s team:
-  - [@Learnk8sNews](https://t.me/Learnk8sNews) :fire: — tutorials, articles and news on Kubernetes.
-  - [@KubernetesArchitect](https://t.me/KubernetesArchitect) :fire: — news and links on architecting and developing apps on Kubernetes.
-  - [@K3sDaily](https://t.me/K3sDaily) — news and links on K3s.
-- [@sysadmin_tools](https://t.me/sysadmin_tools) :fire: — sysadmin and DevOps tools, news and articles.
-- [@devops_sre_notes](https://t.me/devops_sre_notes) :fire::fire: — articles and books for DevOps & SRE.
-- [@securedevops](https://t.me/securedevops) :fire: — tools and books for DevOps, DevSecOps & SRE.
-- [@CatOps](https://t.me/catops) :fire::fire: — news and notes about DevOps, SRE, and more.
-- [@prodevopsguy](https://t.me/prodevopsguy) :fire::fire: — daily DevOps-related tips, job interview questions, etc.
-- [@kubernative](https://t.me/kubernative) — Kubernetes and cloud native-related news, articles & tools for DevOps and SRE.
-- [@DevOps101](https://t.me/DevOps101) — DevOps, SRE news, tools and articles
-- [@softwareengineeringcontent](https://t.me/softwareengineeringcontent) — Content about: eXtreme Programming, Clean Code, Domain-Driven Design, Software Architecture, etc.
-- [@mkdev_me](https://t.me/mkdev_me) — Articles, news roundups, and podcast announcements from mkdev. The main topics are DevOps, SRE, cloud (AWS & GCP), and AI.
+  - :memo: [@Learnk8sNews](https://t.me/Learnk8sNews) :fire: — tutorials, articles and news on Kubernetes.
+  - :memo: [@KubernetesArchitect](https://t.me/KubernetesArchitect) :fire: — news and links on architecting and developing apps on Kubernetes.
+  - :memo: [@K3sDaily](https://t.me/K3sDaily) — news and links on K3s.
+- :memo: [@kubernative](https://t.me/kubernative) — Kubernetes and cloud native-related news, articles & tools for DevOps and SRE.
+- :link: [@sysadmin_tools](https://t.me/sysadmin_tools) :fire: — sysadmin and DevOps tools, news and articles.
+- :memo: [@devops_sre_notes](https://t.me/devops_sre_notes) :fire::fire: — articles and books for DevOps & SRE.
+- :link: [@securedevops](https://t.me/securedevops) :fire: — tools and books for DevOps, DevSecOps & SRE.
+- :memo: [@CatOps](https://t.me/catops) :fire::fire: — news and notes about DevOps, SRE, and more.
+- :memo: [@prodevopsguy](https://t.me/prodevopsguy) :fire::fire: — daily DevOps-related tips, job interview questions, etc.
+- :link: [@DevOps101](https://t.me/DevOps101) — DevOps and SRE news, tools and articles. [links]
+- :memo: [@mkdev_me](https://t.me/mkdev_me) — articles, news roundups, and podcast announcements from mkdev. The main topics are DevOps, SRE, cloud (AWS & GCP), and AI.
 
 #### Security
 
-- [@Kubesploit](https://t.me/Kubesploit) :fire: — news and links on Kubernetes security curated by the Learnk8s team.
+- :memo: [@Kubesploit](https://t.me/Kubesploit) :fire: — news and links on Kubernetes security curated by the Learnk8s team.
+
+#### Software design
+- :memo: [@softwareengineeringcontent](https://t.me/softwareengineeringcontent) — extreme programming, clean code, domain-driven design, software architecture, etc.
 
 #### Jobs
 
