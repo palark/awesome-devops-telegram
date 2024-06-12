@@ -35,6 +35,7 @@ Channel-specific. This channel's content is mainly comprised of:
 - :memo: [@prodevopsguy](https://t.me/prodevopsguy) :fire::fire: — daily DevOps-related tips, job interview questions, etc.
 - :link: [@DevOps101](https://t.me/DevOps101) — DevOps and SRE news, tools and articles. [links]
 - :memo: [@mkdev_me](https://t.me/mkdev_me) — articles, news roundups, and podcast announcements from mkdev. The main topics are DevOps, SRE, cloud (AWS & GCP), and AI.
+- :link: [@deep_thought_aas](https://t.me/deep_thought_aas) - (not so) Deep thoughts, notes, reposts and thinking aloud bout DevOps, architecture and maps.
 
 #### Security
 
