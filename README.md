@@ -67,6 +67,7 @@ Channel-specific. This channel's content is mainly comprised of:
 
 - [@terraform_cloud](https://t.me/terraform_Cloud) :fire::fire: — HashiCorp Terraform.
 - [@werf_io](https://t.me/werf_io) — werf, a CI/CD CLI tool and CNCF project.
+- [@cozystack](https://t.me/cozystack) — Cozystack, open source PaaS for bare metal and providing managed Kubernetes, databases, services.
 
 ## Add more resources
 
