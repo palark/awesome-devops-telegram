@@ -52,6 +52,7 @@ Channel-specific. This channel's content is mainly comprised of:
 - [@kubelet](https://t.me/kubelet) — Kubernetes blog feed.
 - [@rss_kubernetes](https://t.me/rss_kubernetes) :fire: — a feed from various Kubernetes-related projects' GitHub repos and blogs.
 - [@kubevirt](https://t.me/kubevirt) — KubeVirt project's channel providing links to the latest community meetings, etc.
+- [@buildpacks](https://t.me/buildpacks) — Buildpacks project's news.
 
 #### Software design
 
@@ -74,6 +75,8 @@ Channel-specific. This channel's content is mainly comprised of:
 - [@terraform_cloud](https://t.me/terraform_Cloud) :fire::fire: — HashiCorp Terraform.
 - [@werf_io](https://t.me/werf_io) — werf, a CI/CD CLI tool and CNCF project.
 - [@cozystack](https://t.me/cozystack) — Cozystack, open source PaaS for bare metal and providing managed Kubernetes, databases, services.
+- [@argocd_official](https://t.me/argocd_official) — Argo CD, a CNCF Graduated project.
+- [@VictoriaMetrics_en](https://t.me/VictoriaMetrics_en) — VictoriaMetrics, Open Source monitoring solution.
 
 ## Add more resources
 
