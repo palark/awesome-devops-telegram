@@ -77,6 +77,7 @@ Channel-specific. This channel's content is mainly comprised of:
 - [@cozystack](https://t.me/cozystack) — Cozystack, open source PaaS for bare metal and providing managed Kubernetes, databases, services.
 - [@argocd_official](https://t.me/argocd_official) — Argo CD, a CNCF Graduated project.
 - [@VictoriaMetrics_en](https://t.me/VictoriaMetrics_en) — VictoriaMetrics, Open Source monitoring solution.
+- [@kubernetess](https://t.me/kubernetess) — an unofficial English-speaking group for Kubernetes users.
 
 ## Add more resources
 
