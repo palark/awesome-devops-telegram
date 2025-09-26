@@ -23,10 +23,10 @@ Channel-specific. This channel's content is mainly comprised of:
 
 #### General content
 
-- Curated by the Learnk8s team:
-  - :memo: [@Learnk8sNews](https://t.me/Learnk8sNews) :fire: — tutorials, articles and news on Kubernetes.
-  - :memo: [@KubernetesArchitect](https://t.me/KubernetesArchitect) :fire::fire: — news and links on architecting and developing apps on Kubernetes.
-  - :memo: [@K3sDaily](https://t.me/K3sDaily) :fire: — news and links on K3s.
+- Curated by the LearnKube (ex-Learnk8s) team:
+  - :memo: [@LearnKubeNews](https://t.me/LearnKubeNews) :fire: — tutorials, articles and news on Kubernetes.
+  - :memo: [@KubeArchitect](https://t.me/KubeArchitect) :fire::fire: — news and links on architecting and developing apps on Kubernetes.
+  - :memo: [@KubeBuilders](https://t.me/KubeBuilders) :fire: — news and links on infrastructure and building Kubernetes clusters.
 - :memo: [@kubernative](https://t.me/kubernative) :fire: — Kubernetes and Cloud Native-related news, articles & tools for DevOps and SRE.
 - :link: [@sysadmin_tools](https://t.me/sysadmin_tools) :fire: — sysadmin and DevOps tools, news and articles.
 - :memo: [@devops_sre_notes](https://t.me/devops_sre_notes) :fire::fire::fire: — articles and books for DevOps & SRE.
