@@ -40,6 +40,7 @@ Channel-specific. This channel's content is mainly comprised of:
 #### Security
 
 - :memo: [@Kubesploit](https://t.me/Kubesploit) :fire: — news and links on Kubernetes security curated by the Learnk8s team.
+- :link: [@cloud_sec](https://t.me/cloud_sec) — links to the news and articles related to cloud security.
 
 #### Jobs
 
@@ -53,6 +54,8 @@ Channel-specific. This channel's content is mainly comprised of:
 - [@rss_kubernetes](https://t.me/rss_kubernetes) :fire: — a feed from various Kubernetes-related projects' GitHub repos and blogs.
 - [@kubevirt](https://t.me/kubevirt) — KubeVirt project's channel providing links to the latest community meetings, etc.
 - [@buildpacks](https://t.me/buildpacks) — Buildpacks project's news.
+- [@awsweekly](https://t.me/awsweekly) — AWS public releases for the last week.
+- [@jenkinsci](https://t.me/jenkinsci) — Jenkins (r/jenkinsci) posts from Reddit.
 
 #### Software design
 
@@ -66,7 +69,7 @@ Channel-specific. This channel's content is mainly comprised of:
 
 #### General
 
-- [@Learnk8s](https://t.me/learnk8s) :fire: — Kubernetes-related discussions curated by the Learnk8s team.
+- [@LearnKube](https://t.me/LearnKube) :fire: — Kubernetes-related discussions curated by the LearnKube team.
 - [@azuredevopspro](https://t.me/azuredevopspro) :fire::fire: — discussing DevOps-related issues in Azure and more.
 
 #### Tools
