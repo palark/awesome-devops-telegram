@@ -35,6 +35,7 @@ Channel-specific. This channel's content is mainly comprised of:
 - :link: [@DevOps101](https://t.me/DevOps101) — DevOps and SRE news, tools and articles.
 - :memo: [@mkdev_me](https://t.me/mkdev_me) — articles, news roundups, and podcast announcements from mkdev. The main topics are DevOps, SRE, cloud (AWS & GCP), and AI.
 - :link: [@devops_toolkit](https://t.me/devops_toolkit) — articles and tools for DevOps.
+- :link: [@github_trendz](https://t.me/github_trendz) - daily GitHub Trending repositories with short explanations, stars and links.
 
 #### Security
 
