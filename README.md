@@ -32,7 +32,6 @@ Channel-specific. This channel's content is mainly comprised of:
 - :memo: [@devops_sre_notes](https://t.me/devops_sre_notes) :fire::fire::fire: — articles and books for DevOps & SRE.
 - :link: [@securedevops](https://t.me/securedevops) :fire: — tools and books for DevOps, DevSecOps & SRE.
 - :memo: [@CatOps](https://t.me/catops) :fire::fire: — news and notes about DevOps, SRE, and more.
-- :memo: [@prodevopsguy](https://t.me/prodevopsguy) :fire::fire::fire: — daily DevOps-related tips, job interview questions, etc.
 - :link: [@DevOps101](https://t.me/DevOps101) — DevOps and SRE news, tools and articles.
 - :memo: [@mkdev_me](https://t.me/mkdev_me) — articles, news roundups, and podcast announcements from mkdev. The main topics are DevOps, SRE, cloud (AWS & GCP), and AI.
 - :link: [@devops_toolkit](https://t.me/devops_toolkit) — articles and tools for DevOps.
