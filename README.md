@@ -46,6 +46,10 @@ Channel-specific. This channel's content is mainly comprised of:
 - [@KubeCareers](https://t.me/KubeCareers) :fire: — hand-picked Kubernetes jobs curated by the Learnk8s team.
 - [@remote_devops_jobs](https://t.me/remote_devops_jobs) :fire: — curated DevOps jobs from various sources.
 
+#### Events
+
+- [@CloudNativeDaysItaly](https://t.me/cloudnativedaysitaly) — Cloud Native Days Italy, a community-driven event in Italy.
+
 #### Feeds
 
 - [@r_devops](https://t.me/r_devops) — r/devops posts from Reddit.
