@@ -16,6 +16,7 @@ Channel-specific. This channel's content is mainly comprised of:
 
 ## Contents
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Channels](#channels) to read news, announcements, etc.
 - [Groups](#groups) a.k.a. chats for various discussions
 
@@ -84,6 +85,7 @@ Channel-specific. This channel's content is mainly comprised of:
 - [@argocd_official](https://t.me/argocd_official) — Argo CD, a CNCF Graduated project.
 - [@VictoriaMetrics_en](https://t.me/VictoriaMetrics_en) — VictoriaMetrics, Open Source monitoring solution.
 - [@kubernetess](https://t.me/kubernetess) — an unofficial English-speaking group for Kubernetes users.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 
 ## Add more resources
 
