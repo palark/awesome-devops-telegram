@@ -43,6 +43,7 @@ Channel-specific. This channel's content is mainly comprised of:
 
 #### Jobs
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
 - [@KubeCareers](https://telegram.me/KubeCareers) :fire: — hand-picked Kubernetes jobs curated by the Learnk8s team.
 - [@remote_devops_jobs](https://telegram.me/remote_devops_jobs) :fire: — curated DevOps jobs from various sources.
 
