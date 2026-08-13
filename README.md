@@ -84,6 +84,7 @@ Channel-specific. This channel's content is mainly comprised of:
 - [@argocd_official](https://telegram.me/argocd_official) — Argo CD, a CNCF Graduated project.
 - [@VictoriaMetrics_en](https://telegram.me/VictoriaMetrics_en) — VictoriaMetrics, Open Source monitoring solution.
 - [@kubernetess](https://telegram.me/kubernetess) — an unofficial English-speaking group for Kubernetes users.
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries.
 
 ## Add more resources
 
