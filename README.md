@@ -86,6 +86,7 @@ Channel-specific. This channel's content is mainly comprised of:
 - [@kubernetess](https://telegram.me/kubernetess) — an unofficial English-speaking group for Kubernetes users.
 
 ## Add more resources
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - free n8n workflow that polls a JSON/RSS feed and posts new entries to a Telegram channel, no database needed
 
 If you want to see other Telegram resources in this list, please open new PRs adding them. Follow these rules:
 - Be sure your channel/group fits the requirements. It should:
